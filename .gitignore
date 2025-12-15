@@ -1,0 +1,7 @@
+crosshair_app
+kicad_src/
+main_old.cpp
+restored_gist.md
+package.json
+package-lock.json
+*.o
